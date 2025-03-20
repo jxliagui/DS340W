@@ -1,0 +1,11 @@
+# list of packaged for python
+
+# pandas
+# numpy
+# math
+# sklearn.metrics 
+# time
+# datetime
+# seaborn
+# matplotlib.pyplot
+# scipy.stats
