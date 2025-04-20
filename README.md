@@ -148,7 +148,7 @@ The full list of packages in our Python environment can be found here: **DS340W/
 
 -   Link to Python packaging user guide: https://packaging.python.org/en/latest/
   
--   Link to parent paper code: https://github.com/hiteshharsora/housepriceprediction
+-   Link to parent paper's code: https://github.com/hiteshharsora/housepriceprediction
 
 -   Link to Optuna official website: https://optuna.readthedocs.io/en/stable/index.html
 
