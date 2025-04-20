@@ -177,7 +177,7 @@ The full list of packages in our Python environment can be found here: **DS340W/
     -   **lightgbm**==4.6.0
  
 ## Links that might be helpful
--   Link for parent paper code: https://github.com/hiteshharsora/housepriceprediction
+-   Link to parent paper code: https://github.com/hiteshharsora/housepriceprediction
 
 -   Link to Optuna official website: https://optuna.readthedocs.io/en/stable/index.html
 
