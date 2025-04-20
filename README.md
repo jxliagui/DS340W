@@ -154,7 +154,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 The full list of packages in our Python environment can be found here: **DS340W/project/required/requirements.txt**
 
--   We are using **python 3.12.10**
+-   We are using **Python 3.12.10**
 
 -   Main packages used:
 
@@ -175,6 +175,13 @@ The full list of packages in our Python environment can be found here: **DS340W/
     -   **catboost**==1.2.7
 
     -   **lightgbm**==4.6.0
+ 
+## Links that might be helpful
+-   Link for parent paper code: https://github.com/hiteshharsora/housepriceprediction
+
+-   Link to Optuna official website: https://optuna.readthedocs.io/en/stable/index.html
+
+-   Link to CatBoost official website: https://catboost.ai/
 
 ## Contact
 
