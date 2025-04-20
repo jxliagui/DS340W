@@ -1,4 +1,4 @@
-# List of all packages in your Python environment
+# List of all packages in our Python environment
 
 # alembic==1.15.2
 # anyio==4.9.0
