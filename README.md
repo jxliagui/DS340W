@@ -62,18 +62,6 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 (Note here that GitHub will be arranged in alphabetical order, the following list is in the order we ran)
 
--   **Linear_Regression_Model.ipynb** includes
-
-    -   Initial data inspection
-
-    -   Build the linear regression model
-
-    -   Model evaluation (initial)
-
-    -   Hyperparameter tuning (GridSearchCV)
-
-    -   Model evaluation (tuned with GridSearchCV)
-
 -   **Random_Forest_Model.ipynb** includes
 
     -   Build the random forest model
@@ -91,26 +79,6 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
     -   Hyperparameter tuning (Optuna, larger parameter space)
 
     -   Model evaluation (tuned with Optuna, larger parameter space)
-
--   **Support_Vector_Regression_Model.ipynb** includes
-
-    -   Build the support vector regression model
-
-    -   Model evaluation (initial)
-
-    -   Hyperparameter tuning (GridSearchCV)
-
-    -   Model evaluation (tuned with GridSearchCV)
-
--   **Multilayer_Perceptron_Model.ipynb** includes
-
-    -   Build the multi-layer perceptron model
-
-    -   Model evaluation (initial)
-
-    -   Hyperparameter tuning (GridSearchCV)
-
-    -   Model evaluation (tuned with GridSearchCV)
 
 -   **XGBoost_Model.ipynb** includes
 
