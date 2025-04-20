@@ -16,7 +16,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
                   |-- processed         <- Final model-ready data
                   |-- raw               <- Original data
             |-- required
-                  |-- requirements.txt  <- Libraries for reproducing Python environment
+                  |-- requirements.txt  <- Libraries for reproducing the Python environment
             |-- src
                   |-- features          <- Scripts for turning raw data into model-ready data
                   |-- models            <- Scripts for training models
@@ -28,7 +28,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 **AmesHousing.csv**
 
--   Link to orignal dataset: <https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset>
+-   Link to original dataset: <https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset>
 
 -   We also have this dataset here: **DS340W/project/data/raw**
 
@@ -60,7 +60,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 #### **Scripts for model**, they are here: **DS340W/project/src/models**
 
-(Note here that GitHub will arranged in alphabetical order, the following list is in the order we ran)
+(Note here that GitHub will be arranged in alphabetical order, the following list is in the order we ran)
 
 -   **Linear_Regression_Model.ipynb** includes
 
@@ -152,7 +152,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 ## Getting Started
 
-Detailed dependencies reference can be found here: **DS340W/project/required/requirements.txt**
+The full list of packages in our Python environment can be found here: **DS340W/project/required/requirements.txt**
 
 -   We are using **python3.12**
 
