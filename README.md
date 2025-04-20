@@ -72,13 +72,13 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
     -   Model evaluation (tuned with GridSearchCV)
 
-    -   Hyperparameter tuning (Optuna, same parameter space)
+    -   Hyperparameter tuning (Optuna, same hyperparameter space)
 
-    -   Model evaluation (tuned with Optuna, same parameter space)
+    -   Model evaluation (tuned with Optuna, same hyperparameter space)
 
-    -   Hyperparameter tuning (Optuna, larger parameter space)
+    -   Hyperparameter tuning (Optuna, larger hyperparameter space)
 
-    -   Model evaluation (tuned with Optuna, larger parameter space)
+    -   Model evaluation (tuned with Optuna, larger hyperparameter space)
 
 -   **XGBoost_Model.ipynb** includes
 
@@ -90,13 +90,13 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
     -   Model evaluation (tuned with GridSearchCV)
 
-    -   Hyperparameter tuning (Optuna, same parameter space)
+    -   Hyperparameter tuning (Optuna, same hyperparameter space)
 
-    -   Model evaluation (tuned with Optuna, same parameter space)
+    -   Model evaluation (tuned with Optuna, same hyperparameter space)
 
-    -   Hyperparameter tuning (Optuna, larger parameter space)
+    -   Hyperparameter tuning (Optuna, larger hyperparameter space)
 
-    -   Model evaluation (tuned with Optuna, larger parameter space)
+    -   Model evaluation (tuned with Optuna, larger hyperparameter space)
 
 -   **Catboost_Model.ipynb** includes
 
