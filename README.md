@@ -154,7 +154,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 The full list of packages in our Python environment can be found here: **DS340W/project/required/requirements.txt**
 
--   We are using **python3.12.10**
+-   We are using **python 3.12.10**
 
 -   Main packages used:
 
