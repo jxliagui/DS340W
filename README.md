@@ -178,6 +178,6 @@ The full list of packages in our Python environment can be found here: **DS340W/
 
 ## Contact
 
--   Julia Q. Gui (e-mail: [jqg5978\@psu.edu](mailto:jqg5978@psu.edu){.email})
+-   Julia Q. Gui (e-mail: jqg5978@psu.edu)
 
--   Hannah Wu (e-mail: [zmj5109\@psu.edu](mailto:zmj5109@psu.edu){.email})
+-   Hannah Wu (e-mail: zmj5109@psu.edu)
