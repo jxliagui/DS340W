@@ -60,7 +60,7 @@ By applying and evaluating the four powerful ensemble techniques — **Random Fo
 
 #### **Scripts for model**, they are here: **DS340W/project/src/models**
 
-(Note here that GitHub will be arranged in alphabetical order, the following list is in the order we ran)
+(Note here that GitHub will be arranged in alphabetical order, the following list is in the order we test them)
 
 -   **Random_Forest_Model.ipynb** includes
 
