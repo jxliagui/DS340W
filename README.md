@@ -183,6 +183,8 @@ The full list of packages in our Python environment can be found here: **DS340W/
 
 -   Link to CatBoost official website: https://catboost.ai/
 
+-   Link to Python packaging user guide: https://packaging.python.org/en/latest/
+
 ## Contact
 
 -   Julia Q. Gui (e-mail: jqg5978@psu.edu)
